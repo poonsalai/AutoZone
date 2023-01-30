@@ -1,0 +1,17 @@
+GCP Technical Questions:
+1. Considering app engine and cloud run. If the application is required to be mult-regional
+which service would you recommend?. Explain why?
+Ans: CloudRun is multi-regional that should be used while AppEngine is a regional service so can be used
+within a specific region.
+
+
+2. What is the recommended most secure way to connect to CloudSQL?
+--
+
+
+3. What are some challenges working with a Shared VPC?
+---
+
+
+4. What GCP service would you use to provide WAF for a public endpoint?
+Ans: Google cloud Armour
